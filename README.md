@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Lukas W. DiBeneditto is a Research-Option Masters in Science graduate student in Biomedical Engineering (BME) at Carnegie Mellon University. He is a Bioengineered Organs Initiative Researcher under the expert guidance of principal investigator Dr. Keith Cook, Professor, and BME Interim Department Head. His mission is to develop replacement artificial bioengineered organs to prevent and alleviate human suffering from organ failure caused by disease, trauma, or combat injury. Long-term, his goal is to contribute to regenerative medicine so humans can heal faster, regenerate diseased organs, and regrow amputated limbs. Lukas W. DiBeneditto has a background in computer programming, iterative mechanical design, project management, psychology, public speaking, rapid prototyping, research methods, statistical analysis, and systems architecture.
-
-See [dibeneditto.com](https://dibeneditto.com/) for more information and how to contact me. Thanks!
